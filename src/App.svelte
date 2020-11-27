@@ -4,6 +4,10 @@
 	
 </script>
 
+<header>
+	<div id="edamam-badge" data-color="transparent"></div>	
+</header>
+
 <main>
 	<h1>Recipe Search</h1>
 
@@ -11,6 +15,7 @@
 </main>
 
 <style>
+
 	main {
 		text-align: center;
 		padding: 1em;
