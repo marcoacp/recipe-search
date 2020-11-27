@@ -19,7 +19,8 @@ Clone or download this repo
 
 = In the helpers folder of the project create the **keys.js** file with this structure:
 
-*export const appId = 'YOUR_APP_ID'*
+*export const appId = 'YOUR_APP_ID'* 
+
 *export const appKey = 'YOUR_APP_KEY'*
 
 ### install
